@@ -55,5 +55,9 @@ It processes the voice input and recognizes commands.
 If the command is a predefined action (like opening an app), it performs the action.
 If the command requires a conversational response, it queries the AI (OpenAI GPT-3) and provides the response.
 You can exit the assistant anytime by saying "exit" or "sleep".
+
+
+NOTE: You need an upgraded plan for you API to work
+
 License
 This project is open-source and free to use. Feel free to modify and extend the assistant as per your needs!
